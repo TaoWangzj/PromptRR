@@ -25,7 +25,7 @@
 
 <div>
     <h4 align="center">
-        <a href="##" target='_blank'>
+        <a href="https://taowangzj.github.io/projects/PromptRR/" target='_blank'>
         <img src="https://img.shields.io/badge/🐳-Project%20Page-blue">
         </a>
         <a href="https://arxiv.org/pdf/2402.02374.pdf" target='_blank'>
