@@ -43,7 +43,7 @@
     <img style="width:100%" src="./imgs/fig_performance.png">
 </div>
 
-:open_book: For more visual results, see our <a href="##" target="_blank">project page</a>
+:open_book: For more visual results, see our <a href="https://arxiv.org/pdf/2402.02374.pdf" target="_blank">project page</a>
 
 
 ---
