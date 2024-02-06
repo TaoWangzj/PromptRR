@@ -9,7 +9,7 @@
     <a href='https://taowangzj.github.io/' target='_blank'>Tao Wang</a>&emsp;
     <a href='https://longlongaaago.github.io' target='_blank'>Wanglong Lu</a>&emsp;
     <a href='https://zhangkaihao.github.io/' target='_blank'>Kaihao Zhang</a>&emsp;
-    <a href='https://whluo.github.io/' target='_blank'>Wenhan Luo</a>&emsp;
+    <a href='https://whluo.github.io/' target='_blank'>Wenhan Luo</a>&emsp; 
     <a href='https://sites.google.com/view/tkkim/' target='_blank'>Tae-Kyun Kim</a>&emsp;
     <a href='https://cs.nju.edu.cn/lutong/index.htm' target='_blank'>Tong Lu</a> <br>
     <a href='https://scholar.google.com/citations?user=Mq89JAcAAAAJ&hl=ja&oi=ao' target='_blank'>Hongdong Li</a>&emsp;
