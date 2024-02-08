@@ -54,8 +54,7 @@
 
 
 ## 🔥 Update
-- [2024.2.06] This repo is created.
-
+- [2024.2.06] This repo is created and the code will come soon!
 ## 🎬 Overview
 <div align="center">
 <img src="./imgs/fig_pipeline.png" alt="overall_pipeline" width="1200"/>
